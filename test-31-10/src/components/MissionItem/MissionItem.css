@@ -1,0 +1,28 @@
+.MissionItem {
+  border-radius: 8px;
+  padding: 16px;
+  margin: 10px 0;
+  width: 1200px;
+}
+.MissionItem p {
+  margin: 5px 0;
+  font-family: Arial, sans-serif;
+}
+
+.MissionItem button {
+  margin-right: 10px;
+  padding: 8px 12px;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.deleteBtn {
+  background-color: #f44336;
+}
+
+.progressBtn {
+  background-color: #4caf50;
+}
